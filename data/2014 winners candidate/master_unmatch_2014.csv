@@ -1,0 +1,62 @@
+﻿Sno,Candidate∇,Constituency,Party,Criminal Case,Education,Total Assets,Liabilities
+['PC Name', 'No', 'Type', 'State', 'Winning Candidate', 'Party', 'Electors', 'Votes', 'Turnout', 'Margin', 'Margin %']
+3,A Sampath,ATTINGAL,CPI(M),1,Doctorate,"Rs 1,77,91,149","Rs 14,21,392"
+['Ahmadnagar', '37', 'GEN', 'Maharashtra', 'Gandhi Dilipkumar Mansukhlal', 'Bharatiya Janta Party', '1699408', '1062318', '62.5 %', '209122', '19.7%']
+24,Anil Shirole,PUNE,BJP,2,Graduate,"Rs 22,76,15,279","Rs 47,81,007"
+['Anakapalli', '22', 'GEN', 'Andhra Pradesh [2014 Onwards]', 'Muttamsetti Srinivasa Rao (AVANTHI)', 'Telugu Desam', '1401474', '1148072', '81.9 %', '47932', '4.2%']
+32,Anwhar Raajhaa.a,RAMANATHAPURAM,AIADMK,0,Graduate,"Rs 3,35,82,876","Rs 27,00,000"
+['Arambagh', '29', 'SC', 'West Bengal', 'Aparupa Poddar (AFRIN ALI)', 'All India Trinamool Congress', '1600293', '1361934', '85.1 %', '346845', '25.5%']
+36,Arjunlal Meena,UDAIPUR,BJP,0,Post Graduate,"Rs 1,70,49,951","Rs 81,95,866"
+['Aruku', '18', 'ST', 'Andhra Pradesh [2014 Onwards]', 'Kothapalli Geetha', 'Yuvajana Sramika Rythu Congress Party', '1272724', '909614', '71.5 %', '91398', '10.0%']
+45,Ashwini Kumar Choubey,BUXAR,BJP,0,Graduate,"Rs 2,21,00,499","Rs 19,23,552"
+['Azamgarh', '69', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Mulayam Singh Yadav', 'Samajwadi Party', '1703222', '960218', '56.4 %', '63204', '6.6%']
+67,Bhamare Subhash Ramrao,DHULE,BJP,0,Post Graduate,"Rs 12,58,33,320","Rs 6,60,757"
+['Bara Banki', '53', 'SC', 'Uttar Pradesh [2000 Onwards]', 'Priyanka Singh Rawat', 'Bharatiya Janta Party', '1721282', '1068168', '62.1 %', '211878', '19.8%']
+77,Bishnu Pada Ray,ANDAMAN AND NICOBAR ISLANDS,BJP,1,Graduate,"Rs 56,58,980","Rs 1,75,115"
+['Barrackpore', '15', 'GEN', 'West Bengal', 'Dinesh Trivedi', 'All India Trinamool Congress', '1287222', '1051130', '81.7 %', '206773', '19.7%']
+90,Charanjeet Singh,SIRSA,INLD,0,10th Pass,"Rs 81,46,887","Rs 32,60,000"
+['Bhandara - Gondiya', '11', 'GEN', 'Maharashtra', 'Nanabhau Falgunrao Patole', 'Bharatiya Janta Party', '1656284', '1197196', '72.3 %', '149254', '12.5%']
+93,Chauhan Prabhatsinh Pratapsinh,PANCHMAHAL,BJP,3,10th Pass,"Rs 1,04,64,000",Rs 0
+['Bhatinda', '11', 'GEN', 'Punjab', 'Harsimrat Kaur Badal', 'Shiromani Akali Dal', '1525289', '1176767', '77.2 %', '19395', '1.6%']
+98,Chintamani Malviya,UJJAIN,BJP,0,Doctorate,"Rs 1,88,88,754","Rs 54,83,153"
+['Bhiwani-Mahendragarh', '8', 'GEN', 'Haryana', 'Dharambir S/o Bhale Ram', 'Bharatiya Janta Party', '1473912', '1030431', '69.9 %', '129394', '12.6%']
+113,Devendra Singh Urf Bhole Singh,AKBARPUR,BJP,0,10th Pass,"Rs 2,85,46,617","Rs 5,59,965"
+['Burdwan - Durgapur', '39', 'GEN', 'West Bengal', 'Dr. Mamtaz Sanghamita', 'All India Trinamool Congress', '1583498', '1331242', '84.1 %', '107331', '8.1%']
+122,Dinesh Kashyap,BASTAR,BJP,1,Post Graduate,"Rs 1,61,08,199","Rs 21,91,216"
+['Chelvella', '10', 'GEN', 'Telangana', 'Konda Vishweshwar Reddy', 'Telangana Rashtra Samithi', '2185179', '1315862', '60.2 %', '73023', '5.5%']
+129,Dr. Jitendra Singh,UDHAMPUR,BJP,0,Graduate Professional,"Rs 3,84,64,932","Rs 11,881"
+['Chikballapur', '27', 'GEN', 'Karnataka', 'M Veerappa Moily', 'Indian National Congress', '1658342', '1263274', '76.2 %', '9520', '0.8%']
+136,Dr. Sanjay Jayaswal,PASCHIM CHAMPARAN,BJP,2,Post Graduate,"Rs 3,59,41,299","Rs 61,97,804"
+['Cooch Behar', '1', 'SC', 'West Bengal', 'Renuka Sinha', 'All India Trinamool Congress', '1613417', '1332409', '82.6 %', '87107', '6.5%']
+175,Hari Manjhi,GAYA,BJP,1,8th Pass,"Rs 1,01,84,120","Rs 20,00,000"
+['Farrukhabad', '40', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Mukesh Rajput', 'Bharatiya Janta Party', '1613781', '970677', '60.2 %', '150502', '15.5%']
+179,Hariom,AMBEDKAR NAGAR,BJP,0,Post Graduate,"Rs 1,53,18,114",Rs 0
+['Ferozpur', '10', 'GEN', 'Punjab', 'Sher Singh Ghubaya', 'Shiromani Akali Dal', '1522111', '1105412', '72.6 %', '31420', '2.8%']
+181,Harish Chandra,BASTI,BJP,2,Post Graduate,"Rs 53,45,882","Rs 8,60,185"
+['Gadchiroli-Chimur', '12', 'ST', 'Maharashtra', 'Ashok Mahadeorao Nete', 'Bharatiya Janta Party', '1469767', '1027129', '69.9 %', '236870', '23.1%']
+186,Idris Ali,BASIRHAT,AITC,9,Graduate Professional,"Rs 98,00,277",Rs 0
+['Gautam Buddh Nagar', '13', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Dr.Mahesh Sharma', 'Bharatiya Janta Party', '1986117', '1199238', '60.4 %', '280212', '23.4%']
+244,Kulamani Samal,JAGATSINGHPUR,BJD,0,Graduate Professional,"Rs 2,51,58,570",Rs 0
+['Jhalawar-Baran', '25', 'GEN', 'Rajasthan', 'Dushyant Singh', 'Bharatiya Janta Party', '1669842', '1146364', '68.7 %', '281546', '24.6%']
+251,Lal Krishna Advani,GANDHINAGAR,BJP,1,Graduate Professional,"Rs 7,59,15,276",Rs 0
+['Joynagar', '19', 'SC', 'West Bengal', 'Pratima Mondal', 'All India Trinamool Congress', '1458724', '1186052', '81.3 %', '108384', '9.1%']
+272,Manohar Untwal,DEWAS,BJP,0,12th Pass,"Rs 63,36,490","Rs 14,48,086"
+['Karauli-Dholpur', '10', 'SC', 'Rajasthan', 'Manoj Rajoria', 'Bharatiya Janta Party', '1549662', '845941', '54.6 %', '27216', '3.2%']
+343,Prabhas Kumar Singh,BARGARH,BJD,0,Doctorate,"Rs 57,86,971","Rs 6,70,000"
+['Mavelikara', '16', 'SC', 'Kerala', 'Kodikunnil Suresh', 'Indian National Congress', '1252668', '889060', '71.0 %', '32737', '3.7%']
+373,Rajen Gohain,NOWGONG,BJP,1,Graduate Professional,"Rs 2,47,36,544","Rs 53,28,287"
+['Nainital-Udhamsingh Nagar', '4', 'GEN', 'Uttarakhand', 'Bhagat Singh Koshyari', 'Bharatiya Janta Party', '1610810', '1101435', '68.4 %', '284717', '25.8%']
+408,Ranjit Singh Brahmpura,KHADOOR SAHIB,SAD,0,8th Pass,"Rs 17,78,14,755","Rs 42,00,000"
+['Peddapalli', '2', 'SC', 'Telangana', 'Balka Suman', 'Telangana Rashtra Samithi', '1425361', '1022184', '71.7 %', '291158', '28.5%']
+441,Satish Kumar,ALIGARH,BJP,1,10th Pass,"Rs 5,21,80,006","Rs 7,54,800"
+['Ratnagiri - Sindhudurg', '46', 'GEN', 'Maharashtra', 'Vinayak Bhaurao Raut', 'Shiv Sena', '1367361', '896256', '65.6 %', '150051', '16.7%']
+458,Shibu Soren,DUMKA,JMM,0,10th Pass,"Rs 4,67,60,684","Rs 14,79,721"
+['Sarguja', '1', 'ST', 'Chhattisgarh', 'Kamalbhan Singh Marabi', 'Bharatiya Janta Party', '1523072', '1187321', '78.0 %', '147236', '12.4%']
+462,Shripad Yesso Naik,NORTH GOA,BJP,0,Graduate,"Rs 3,70,19,154","Rs 8,37,843"
+['Secundrabad', '8', 'GEN', 'Telangana', 'Bandaru Dattatreya', 'Bharatiya Janta Party', '1893647', '1003769', '53.0 %', '254735', '25.4%']
+486,Sumitra Mahajan,INDORE,BJP,0,Post Graduate,"Rs 1,87,32,234","Rs 35,39,000"
+['Srerampur', '27', 'GEN', 'West Bengal', 'Kalyan Banerjee', 'All India Trinamool Congress', '1624038', '1290433', '79.5 %', '152526', '11.8%']
+502,Taslim Uddin,ARARIA,RJD,4,Literate,"Rs 4,23,68,468","Rs 10,26,919"
+['Thiruvallur', '1', 'SC', 'Tamil Nadu', 'Venugopal.P.(DR)', 'All India Anna Dravida Munnetra Kazhagam', '1702833', '1254440', '73.7 %', '323430', '25.8%']
+512,Uma Bharti,JHANSI,BJP,13,5th Pass,"Rs 1,43,76,218",Rs 0
+['Tonk-Sawai Madhopur', '12', 'GEN', 'Rajasthan', 'Sukhbir Singh Jaunapuria', 'Bharatiya Janta Party', '1710775', '1043040', '61.0 %', '135311', '13.0%']

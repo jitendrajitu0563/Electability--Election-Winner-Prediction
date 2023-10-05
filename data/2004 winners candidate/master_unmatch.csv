@@ -1,0 +1,208 @@
+﻿Sno,Candidate∇,Constituency,Party,Criminal Case,Education,Total Assets,Liabilities
+['\xa0#\xa0\xa0\xa0\xa0', 'PC Name', 'No', 'Type', 'State', 'Winning Candidate', 'Party', 'Electors', 'Votes', 'Turnout', 'Margin', 'Margin %']
+1,A. B. A. Ghani Khan Choudhury,Malda,INC,1,Graduate,"Rs 41,15,704","Rs 41,87,744"
+['1', 'Adilabad', '35', 'GEN', 'Andhra Pradesh', 'Madhusudhan Reddy Takkala', 'Telangana Rashtra Samithi', '11,40,834', '8,30,601', '72.80%', '40,974', '4.90%']
+7,ABDUL RASHID SHAHEEN,Baramulla,JKN,0,Post Graduate,"Rs 1,71,74,843","Rs 10,56,615"
+['7', 'Akbarpur', '23', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Maya Wati', 'Bahujan Samaj Party', '14,46,088', '7,41,543', '51.30%', '58,269', '7.90%']
+11,ADITYA NATH,Gorakhpur,BJP,0,Graduate,"Rs 9,60,672",Rs 0
+['11', 'Allahabad', '52', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Raman Singh', 'Samajwadi Party', '15,58,094', '6,56,450', '42.10%', '28,383', '4.30%']
+13,AFAJAL ANSARI,Ghazipur,SP,1,Post Graduate,"Rs 50,85,464","Rs 38,022"
+['13', 'Almora', '3', 'SC', 'Uttarakhand', 'Bachi Singh Rawat', 'Bharatiya Janta Party', '10,12,756', '5,04,756', '49.80%', '10,052', '2.00%']
+15,AHIR HANSRAJ GANGARAM,Chandrapur,BJP,16,10th Pass,"Rs 26,53,960",Rs 0
+['15', 'Amalapuram', '9', 'SC', 'Andhra Pradesh', 'G.V. Harsha Kumar', 'Indian National Congress', '9,04,207', '7,02,715', '77.70%', '41,485', '5.90%']
+19,AJIT KUMAR SINGH,Bikramganj,JD(U),0,Post Graduate,"Rs 1,43,62,110",Rs 0
+['19', 'Amreli', '7', 'GEN', 'Gujarat', 'Nilaben Virjibhai Thummar', 'Indian National Congress', '10,25,515', '4,75,548', '46.40%', '2,030', '0.40%']
+33,ANANTHKUMAR HEGDE,Kanara,BJP,3,12th Pass,"Rs 12,06,000","Rs 1,34,01,653"
+['33', 'Arunachal West', '1', 'GEN', 'Arunachal Pradesh', 'Kiren Rijiju', 'Bharatiya Janta Party', '3,94,428', '2,20,618', '55.90%', '47,424', '21.50%']
+54,AVTAR SINGH BHADANA,Faridabad,INC,0,8th Pass,"Rs 97,63,648",Rs 0
+['54', 'Bangalore South', '13', 'GEN', 'Karnataka', 'Ananth Kumar', 'Bharatiya Janta Party', '16,20,352', '8,00,632', '49.40%', '62,271', '7.80%']
+67,Basudeb Barman,Mathurapur,CPM,0,Post Graduate,"Rs 27,72,156",Rs 0
+['67', 'Baroda', '22', 'GEN', 'Gujarat', 'Jayaben Thakkar', 'Bharatiya Janta Party', '16,56,867', '6,51,977', '39.40%', '6,603', '1.00%']
+74,BHAVANI RAJENTHIRAN. M. S. K.,Ramanathapuram,DMK,0,Post Graduate,"Rs 1,51,50,840","Rs 5,00,000"
+['74', 'Beed', '34', 'GEN', 'Maharashtra', 'Jaisingrao Gaikwad Patil', 'Nationalist Congress Party', '13,19,891', '8,82,532', '66.90%', '47,412', '5.40%']
+83,BRAHMANANDA PANDA,Jagatsinghpur,BJD,0,Post Graduate,"Rs 59,82,315","Rs 53,760"
+['83', 'Bhadrak', '3', 'GEN', 'Orissa', 'Arjun Charan Sethi', 'Biju Janata Dal', '13,50,755', '9,31,990', '69.00%', '94,769', '10.20%']
+104,CHARANJIT SINGH ATWAL,Phillaur,SAD,0,Graduate Professional,"Rs 1,64,69,765","Rs 7,10,013"
+['104', 'Bolpur', '41', 'SC', 'West Bengal', 'Somnath Chatterjee', 'Communist Party Of India (MARXIST)', '10,35,012', '7,67,695', '74.20%', '3,10,305', '40.40%']
+113,"CHITTHAN, N. S. V.",Dindigul,INC,0,Graduate,"Rs 1,32,47,227","Rs 8,75,536"
+['113', 'Calcutta North West', '21', 'GEN', 'West Bengal', 'Sudhangshu Seal', 'Communist Party Of India (MARXIST)', '6,09,204', '3,59,642', '59.00%', '43,004', '12.00%']
+116,D. VITTAL RAO,Mahabubnagar,INC,0,Graduate,"Rs 6,50,75,830","Rs 30,00,000"
+['116', 'Cannanore', '2', 'GEN', 'Kerala', 'A. P. Abdullakutty', 'Communist Party Of India (MARXIST)', '10,88,892', '8,58,386', '78.80%', '83,849', '9.80%']
+126,DEVENDRA PRASAD YADAV,Jhanjharpur,RJD,0,Graduate,"Rs 11,37,321","Rs 2,45,123"
+['126', 'Chhindwara', '16', 'GEN', 'Madhya Pradesh [2000 Onwards]', 'Kamal Nath', 'Indian National Congress', '11,45,107', '7,52,439', '65.70%', '63,708', '8.50%']
+138,DR. ARUN KUMAR SARMAH,Lakhimpur,AGP,0,Not Given,"Rs 14,67,028",Rs 0
+['138', 'Coimbatore', '20', 'GEN', 'Tamil Nadu', 'Subbarayan, K.', 'Communist Party Of India', '15,84,223', '8,77,688', '55.40%', '1,64,505', '18.70%']
+153,DUSHYANT SINGH,Jhalawar,BJP,0,Post Graduate,"Rs 70,82,067",Rs 0
+['153', 'Delhi Sadar', '6', 'GEN', 'Delhi [1977 Onwards]', 'Jagdish Tytler', 'Indian National Congress', '4,71,813', '2,71,552', '57.60%', '15,974', '5.90%']
+159,G. KARUNAKARA REDDY,Bellary,BJP,0,Graduate,"Rs 1,09,30,950","Rs 4,16,228"
+['159', 'Dharmapuri', '13', 'SC', 'Tamil Nadu', 'Senthil, Dr. R.', 'Pattali Makkal Katchi', '12,95,521', '7,07,804', '54.60%', '2,16,090', '30.50%']
+164,GADHAVI PUSHPADAN SHAMBHUDAN,Kutch,BJP,0,Graduate Professional,"Rs 97,30,221","Rs 7,19,633"
+['164', 'Dhule', '14', 'GEN', 'Maharashtra', 'Chaurey Bapu Hari', 'Indian National Congress', '12,26,114', '4,55,308', '37.10%', '7,765', '1.70%']
+186,ILIYAS AZMI,Shahabad,BSP,0,Graduate,"Rs 1,96,83,626",Rs 0
+['186', 'Gandhinagar', '11', 'GEN', 'Gujarat', 'Lal Krishna Advani', 'Bharatiya Janta Party', '21,26,829', '8,45,212', '39.70%', '2,17,138', '25.70%']
+213,KALYAN SINGH,Bulandshahr,BJP,0,Graduate Professional,"Rs 62,09,253",Rs 0
+['213', 'Hassan', '19', 'GEN', 'Karnataka', 'H D Devegowda', 'Janata Dal (Secular)', '12,92,878', '9,10,103', '70.40%', '1,90,305', '20.90%']
+226,KHIREN RIJIJU,Arunachal West,BJP,0,Graduate,"Rs 65,11,344",Rs 0
+['226', 'Indore', '26', 'GEN', 'Madhya Pradesh [2000 Onwards]', 'Sumitra Mahajan (TAI)', 'Bharatiya Janta Party', '16,78,030', '8,54,240', '50.90%', '1,93,936', '22.70%']
+241,KUNNUR MANJUNATH CHANNAPPA,Dharwad South,BJP,0,Post Graduate,"Rs 1,28,62,400","Rs 7,30,000"
+['241', 'Jamnagar', '3', 'GEN', 'Gujarat', 'Ahir Vikrambhai Arjanbhai Madam', 'Indian National Congress', '10,72,175', '4,33,392', '40.40%', '5,593', '1.30%']
+244,KUNWAR SARVRAJ SINGH,Aonla,JD(U),1,Graduate Professional,"Rs 1,42,81,673",Rs 0
+['244', 'Janjgir', '3', 'SC', 'Chhattisgarh', 'Karuna Shukla', 'Bharatiya Janta Party', '13,74,418', '7,17,350', '52.20%', '11,329', '1.60%']
+260,MADHU GOUD YASKHI,Nizamabad,INC,0,Post Graduate,"Rs 14,27,18,537","Rs 3,25,60,000"
+['260', 'Kakinada', '7', 'GEN', 'Andhra Pradesh', 'Mallipudi Mangapati Pallam Raju', 'Indian National Congress', '11,64,984', '8,32,052', '71.40%', '57,252', '6.90%']
+282,MD. ALI ASHRAF FATMI,Darbhanga,RJD,0,Post Graduate,"Rs 20,71,240","Rs 5,45,183"
+['282', 'Khajuraho', '6', 'SC', 'Madhya Pradesh [2000 Onwards]', 'Dr. Ramkrishna Kushmariya " Baba Jee "', 'Bharatiya Janta Party', '15,52,876', '7,71,830', '49.70%', '1,11,781', '14.50%']
+294,MOHD. MUQUEEM,Domariaganj,BSP,2,10th Pass,"Rs 49,02,000",Rs 0
+['294', 'Kolaba', '3', 'GEN', 'Maharashtra', 'Barrister A. R. Antulay', 'Indian National Congress', '12,50,272', '7,91,940', '63.30%', '31,870', '4.00%']
+322,P. C. THOMAS (PULLOLIL),Muvattupuzha,IFDP,0,Graduate Professional,"Rs 63,92,358","Rs 12,32,410"
+['322', 'Madurai', '24', 'GEN', 'Tamil Nadu', 'Mohan, P.', 'Communist Party Of India (MARXIST)', '13,44,023', '7,38,136', '54.90%', '1,32,840', '18.00%']
+323,P. JAYA PRADA NAHATA,Rampur,SP,0,12th Pass,"Rs 8,42,75,000","Rs 3,00,000"
+['323', 'Mahabubnagar', '29', 'GEN', 'Andhra Pradesh', 'Devarakonda Vittal Rao', 'Indian National Congress', '13,65,922', '8,66,243', '63.40%', '47,907', '5.50%']
+324,P. KARUNAKARAN,Kasaragod,CPM,20,Post Graduate,"Rs 51,90,249","Rs 10,330"
+['324', 'Maharajganj', '35', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Pankaj Choudhary', 'Bharatiya Janta Party', '13,11,205', '7,46,614', '56.90%', '64,799', '8.70%']
+361,PURANO AGITOK SANGMA,Tura,AITC,0,Post Graduate,"Rs 3,50,32,125",Rs 0
+['361', 'Mumbai North East', '7', 'SC', 'Maharashtra', 'Ad. Kamat Gurudas Vasant', 'Indian National Congress', '19,74,560', '9,25,623', '46.90%', '99,400', '10.70%']
+362,PUSP JAIN,Pali,BJP,0,Graduate Professional,"Rs 16,54,429","Rs 2,22,611"
+['362', 'Mumbai North West', '8', 'GEN', 'Maharashtra', 'Dutt Priya Sunil', 'Indian National Congress', '15,15,745', '7,47,677', '49.30%', '47,358', '6.30%']
+363,R.L. JALAPPA,Chikballapur,INC,0,Graduate,"Rs 4,02,39,308","Rs 1,05,000"
+['363', 'Mumbai South', '4', 'GEN', 'Maharashtra', 'Milind Murli Deora', 'Indian National Congress', '6,20,431', '2,74,343', '44.20%', '10,246', '3.70%']
+365,RADHEY SHYAM KORI,Ghatampur,SP,0,10th Pass,"Rs 18,68,196",Rs 0
+['365', 'Murshidabad', '9', 'GEN', 'West Bengal', 'Abdul Mannan Hossain', 'Indian National Congress', '11,97,170', '10,03,469', '83.80%', '15,480', '1.50%']
+376,RAJESH KUMAR MANJHI,Gaya,RJD,0,8th Pass,Nil,"Rs 26,000"
+['376', 'Nagpur', '23', 'GEN', 'Maharashtra', 'Vilasrao Baburaoji Muttemwar', 'Indian National Congress', '16,30,894', '7,92,180', '48.60%', '99,483', '12.60%']
+380,RAKESH SINGH,Jabalpur,BJP,0,Graduate,"Rs 63,27,291",Rs 0
+['380', 'Nanded', '30', 'GEN', 'Maharashtra', 'D. B. Patil', 'Bharatiya Janta Party', '14,45,611', '7,98,771', '55.30%', '24,335', '3.00%']
+381,Ram Chandra Dome,Birbhum,CPM,0,Doctorate,"Rs 4,09,541","Rs 2,862"
+['381', 'Nandurbar', '15', 'GEN', 'Maharashtra', 'Gavit Manikrao Hodlya', 'Indian National Congress', '12,18,524', '6,39,614', '52.50%', '1,07,621', '16.80%']
+383,RAM JI LAL SUMAN,Firozabad,SP,2,Graduate,"Rs 42,35,985",Rs 0
+['383', 'Narasapur', '10', 'GEN', 'Andhra Pradesh', 'Chegondi Venkata Harirama Jogaiah', 'Indian National Congress', '9,96,175', '7,65,772', '76.90%', '64,412', '8.40%']
+390,RAMESHWAR ORAON,Lohardaga,INC,0,Doctorate,"Rs 92,38,423","Rs 3,64,452"
+['390', 'Nizamabad', '34', 'GEN', 'Andhra Pradesh', 'Madhu Yakshi Goud', 'Indian National Congress', '11,28,312', '7,81,638', '69.30%', '1,37,871', '17.60%']
+400,RASHEED MASOOD,Saharanpur,SP,1,Post Graduate,"Rs 2,61,75,490","Rs 30,50,977"
+['400', 'Palani', '22', 'GEN', 'Tamil Nadu', 'Kharventhan, S. K.', 'Indian National Congress', '10,88,931', '6,93,929', '63.70%', '2,31,493', '33.40%']
+405,RAYAPATI SAMBASIVA RAO,Guntur,INC,0,Not Given,"Rs 4,81,98,297","Rs 98,89,900"
+['405', 'Panskura', '29', 'SC', 'West Bengal', 'Gurudas Das Gupta', 'Communist Party Of India', '10,61,186', '8,71,449', '82.10%', '2,79,478', '32.10%']
+420,SANDEEP DIKSHIT,East Delhi,INC,0,Post Graduate,"Rs 47,64,901","Rs 2,46,779"
+['420', 'Ponnani', '6', 'GEN', 'Kerala', 'E. Ahammed', 'Muslim League Kerala State Committee', '11,72,057', '7,29,438', '62.20%', '1,02,758', '14.10%']
+422,SANSUMA KHUNGGUR BWISWMUTHIARY,Kokrajhar,IND,0,Graduate,"Rs 16,94,686",Rs 0
+['422', 'Pratapgarh', '20', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Akshay Pratap Singh "gopal Ji"', 'Samajwadi Party', '13,32,216', '5,72,666', '43.00%', '69,272', '12.10%']
+426,SARTAJ SINGH,Hoshangabad,BJP,0,Graduate,"Rs 1,48,78,898","Rs 6,54,724"
+['426', 'Purnea', '24', 'GEN', 'Bihar [2000 Onwards]', 'Uday Singh Alias Pappu Singh', 'Bharatiya Janta Party', '11,79,491', '7,09,015', '60.10%', '12,883', '1.80%']
+436,SHIVRAJ SINGH,Vidisha,BJP,2,Post Graduate,"Rs 58,14,600","Rs 2,87,640"
+['436', 'Rajapur', '1', 'ST', 'Maharashtra', 'Suresh Prabhu', 'Shiv Sena', '8,35,714', '4,80,243', '57.50%', '80,899', '16.80%']
+470,SURYAKANTA PATIL,Hingoli,NCP,2,Graduate,"Rs 1,53,07,225","Rs 2,72,088"
+['470', 'Secunderabad', '31', 'GEN', 'Andhra Pradesh', 'Anjan Kumar Yadav M', 'Indian National Congress', '18,50,694', '9,73,226', '52.60%', '68,758', '7.10%']
+476,TAPIR GAO,Arunachal East,BJP,0,Post Graduate,"Rs 55,16,640","Rs 50,000"
+['476', 'Shajapur', '22', 'SC', 'Madhya Pradesh [2000 Onwards]', 'Thawarchand Gehlot', 'Bharatiya Janta Party', '13,28,841', '7,19,744', '54.20%', '1,68,187', '23.40%']
+496,"VELU, R.",Arakkonam,PMK,0,Post Graduate,"Rs 46,10,868","Rs 97,947"
+['496', 'Srikakulam', '1', 'GEN', 'Andhra Pradesh', 'Yerrannaidu Kinjarapu', 'Telugu Desam', '9,58,626', '7,23,013', '75.40%', '31,879', '4.40%']
+502,VIJAYENDRAPAL SINGH,Bhilwara,BJP,0,Graduate,"Rs 2,37,65,671","Rs 2,50,000"
+['502', 'Surendranagar', '2', 'GEN', 'Gujarat', 'Koli Patel Somabhai Gandabhai', 'Bharatiya Janta Party', '11,09,656', '4,55,520', '41.10%', '33,944', '7.50%']
+505,VIRCHANDRA PASWAN,Nawada,RJD,0,Post Graduate,"Rs 17,97,522","Rs 1,35,728"
+['505', 'Tarn Taran', '3', 'GEN', 'Punjab', 'Dr. Rattan Singh Ajnala', 'Shiromani Akali Dal', '11,73,431', '7,17,306', '61.10%', '56,394', '7.90%']
+513,Y.S. VIVEKANANDA REDDY,Cuddapah,INC,0,Graduate,"Rs 3,62,27,380",Rs 0
+['513', 'Tiruchendur', '38', 'GEN', 'Tamil Nadu', 'Radhika Selvi. V', 'Dravida Munetra Kazhagam', '10,31,560', '6,28,693', '61.00%', '1,81,681', '28.90%']
+﻿Sno,Candidate∇,Constituency,Party,Criminal Case,Education,Total Assets,Liabilities
+['\xa0#\xa0\xa0\xa0\xa0', 'PC Name', 'No', 'Type', 'State', 'Winning Candidate', 'Party', 'Electors', 'Votes', 'Turnout', 'Margin', 'Margin %']
+1,A. B. A. Ghani Khan Choudhury,Malda,INC,1,Graduate,"Rs 41,15,704","Rs 41,87,744"
+['1', 'Adilabad', '35', 'GEN', 'Andhra Pradesh', 'Madhusudhan Reddy Takkala', 'Telangana Rashtra Samithi', '11,40,834', '8,30,601', '72.80%', '40,974', '4.90%']
+7,ABDUL RASHID SHAHEEN,Baramulla,JKN,0,Post Graduate,"Rs 1,71,74,843","Rs 10,56,615"
+['7', 'Akbarpur', '23', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Maya Wati', 'Bahujan Samaj Party', '14,46,088', '7,41,543', '51.30%', '58,269', '7.90%']
+11,ADITYA NATH,Gorakhpur,BJP,0,Graduate,"Rs 9,60,672",Rs 0
+['11', 'Allahabad', '52', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Raman Singh', 'Samajwadi Party', '15,58,094', '6,56,450', '42.10%', '28,383', '4.30%']
+13,AFAJAL ANSARI,Ghazipur,SP,1,Post Graduate,"Rs 50,85,464","Rs 38,022"
+['13', 'Almora', '3', 'SC', 'Uttarakhand', 'Bachi Singh Rawat', 'Bharatiya Janta Party', '10,12,756', '5,04,756', '49.80%', '10,052', '2.00%']
+15,AHIR HANSRAJ GANGARAM,Chandrapur,BJP,16,10th Pass,"Rs 26,53,960",Rs 0
+['15', 'Amalapuram', '9', 'SC', 'Andhra Pradesh', 'G.V. Harsha Kumar', 'Indian National Congress', '9,04,207', '7,02,715', '77.70%', '41,485', '5.90%']
+19,AJIT KUMAR SINGH,Bikramganj,JD(U),0,Post Graduate,"Rs 1,43,62,110",Rs 0
+['19', 'Amreli', '7', 'GEN', 'Gujarat', 'Nilaben Virjibhai Thummar', 'Indian National Congress', '10,25,515', '4,75,548', '46.40%', '2,030', '0.40%']
+33,ANANTHKUMAR HEGDE,Kanara,BJP,3,12th Pass,"Rs 12,06,000","Rs 1,34,01,653"
+['33', 'Arunachal West', '1', 'GEN', 'Arunachal Pradesh', 'Kiren Rijiju', 'Bharatiya Janta Party', '3,94,428', '2,20,618', '55.90%', '47,424', '21.50%']
+54,AVTAR SINGH BHADANA,Faridabad,INC,0,8th Pass,"Rs 97,63,648",Rs 0
+['54', 'Bangalore South', '13', 'GEN', 'Karnataka', 'Ananth Kumar', 'Bharatiya Janta Party', '16,20,352', '8,00,632', '49.40%', '62,271', '7.80%']
+67,Basudeb Barman,Mathurapur,CPM,0,Post Graduate,"Rs 27,72,156",Rs 0
+['67', 'Baroda', '22', 'GEN', 'Gujarat', 'Jayaben Thakkar', 'Bharatiya Janta Party', '16,56,867', '6,51,977', '39.40%', '6,603', '1.00%']
+74,BHAVANI RAJENTHIRAN. M. S. K.,Ramanathapuram,DMK,0,Post Graduate,"Rs 1,51,50,840","Rs 5,00,000"
+['74', 'Beed', '34', 'GEN', 'Maharashtra', 'Jaisingrao Gaikwad Patil', 'Nationalist Congress Party', '13,19,891', '8,82,532', '66.90%', '47,412', '5.40%']
+83,BRAHMANANDA PANDA,Jagatsinghpur,BJD,0,Post Graduate,"Rs 59,82,315","Rs 53,760"
+['83', 'Bhadrak', '3', 'GEN', 'Orissa', 'Arjun Charan Sethi', 'Biju Janata Dal', '13,50,755', '9,31,990', '69.00%', '94,769', '10.20%']
+104,CHARANJIT SINGH ATWAL,Phillaur,SAD,0,Graduate Professional,"Rs 1,64,69,765","Rs 7,10,013"
+['104', 'Bolpur', '41', 'SC', 'West Bengal', 'Somnath Chatterjee', 'Communist Party Of India (MARXIST)', '10,35,012', '7,67,695', '74.20%', '3,10,305', '40.40%']
+113,"CHITTHAN, N. S. V.",Dindigul,INC,0,Graduate,"Rs 1,32,47,227","Rs 8,75,536"
+['113', 'Calcutta North West', '21', 'GEN', 'West Bengal', 'Sudhangshu Seal', 'Communist Party Of India (MARXIST)', '6,09,204', '3,59,642', '59.00%', '43,004', '12.00%']
+116,D. VITTAL RAO,Mahabubnagar,INC,0,Graduate,"Rs 6,50,75,830","Rs 30,00,000"
+['116', 'Cannanore', '2', 'GEN', 'Kerala', 'A. P. Abdullakutty', 'Communist Party Of India (MARXIST)', '10,88,892', '8,58,386', '78.80%', '83,849', '9.80%']
+126,DEVENDRA PRASAD YADAV,Jhanjharpur,RJD,0,Graduate,"Rs 11,37,321","Rs 2,45,123"
+['126', 'Chhindwara', '16', 'GEN', 'Madhya Pradesh [2000 Onwards]', 'Kamal Nath', 'Indian National Congress', '11,45,107', '7,52,439', '65.70%', '63,708', '8.50%']
+138,DR. ARUN KUMAR SARMAH,Lakhimpur,AGP,0,Not Given,"Rs 14,67,028",Rs 0
+['138', 'Coimbatore', '20', 'GEN', 'Tamil Nadu', 'Subbarayan, K.', 'Communist Party Of India', '15,84,223', '8,77,688', '55.40%', '1,64,505', '18.70%']
+153,DUSHYANT SINGH,Jhalawar,BJP,0,Post Graduate,"Rs 70,82,067",Rs 0
+['153', 'Delhi Sadar', '6', 'GEN', 'Delhi [1977 Onwards]', 'Jagdish Tytler', 'Indian National Congress', '4,71,813', '2,71,552', '57.60%', '15,974', '5.90%']
+159,G. KARUNAKARA REDDY,Bellary,BJP,0,Graduate,"Rs 1,09,30,950","Rs 4,16,228"
+['159', 'Dharmapuri', '13', 'SC', 'Tamil Nadu', 'Senthil, Dr. R.', 'Pattali Makkal Katchi', '12,95,521', '7,07,804', '54.60%', '2,16,090', '30.50%']
+164,GADHAVI PUSHPADAN SHAMBHUDAN,Kutch,BJP,0,Graduate Professional,"Rs 97,30,221","Rs 7,19,633"
+['164', 'Dhule', '14', 'GEN', 'Maharashtra', 'Chaurey Bapu Hari', 'Indian National Congress', '12,26,114', '4,55,308', '37.10%', '7,765', '1.70%']
+186,ILIYAS AZMI,Shahabad,BSP,0,Graduate,"Rs 1,96,83,626",Rs 0
+['186', 'Gandhinagar', '11', 'GEN', 'Gujarat', 'Lal Krishna Advani', 'Bharatiya Janta Party', '21,26,829', '8,45,212', '39.70%', '2,17,138', '25.70%']
+213,KALYAN SINGH,Bulandshahr,BJP,0,Graduate Professional,"Rs 62,09,253",Rs 0
+['213', 'Hassan', '19', 'GEN', 'Karnataka', 'H D Devegowda', 'Janata Dal (Secular)', '12,92,878', '9,10,103', '70.40%', '1,90,305', '20.90%']
+226,KHIREN RIJIJU,Arunachal West,BJP,0,Graduate,"Rs 65,11,344",Rs 0
+['226', 'Indore', '26', 'GEN', 'Madhya Pradesh [2000 Onwards]', 'Sumitra Mahajan (TAI)', 'Bharatiya Janta Party', '16,78,030', '8,54,240', '50.90%', '1,93,936', '22.70%']
+241,KUNNUR MANJUNATH CHANNAPPA,Dharwad South,BJP,0,Post Graduate,"Rs 1,28,62,400","Rs 7,30,000"
+['241', 'Jamnagar', '3', 'GEN', 'Gujarat', 'Ahir Vikrambhai Arjanbhai Madam', 'Indian National Congress', '10,72,175', '4,33,392', '40.40%', '5,593', '1.30%']
+244,KUNWAR SARVRAJ SINGH,Aonla,JD(U),1,Graduate Professional,"Rs 1,42,81,673",Rs 0
+['244', 'Janjgir', '3', 'SC', 'Chhattisgarh', 'Karuna Shukla', 'Bharatiya Janta Party', '13,74,418', '7,17,350', '52.20%', '11,329', '1.60%']
+260,MADHU GOUD YASKHI,Nizamabad,INC,0,Post Graduate,"Rs 14,27,18,537","Rs 3,25,60,000"
+['260', 'Kakinada', '7', 'GEN', 'Andhra Pradesh', 'Mallipudi Mangapati Pallam Raju', 'Indian National Congress', '11,64,984', '8,32,052', '71.40%', '57,252', '6.90%']
+282,MD. ALI ASHRAF FATMI,Darbhanga,RJD,0,Post Graduate,"Rs 20,71,240","Rs 5,45,183"
+['282', 'Khajuraho', '6', 'SC', 'Madhya Pradesh [2000 Onwards]', 'Dr. Ramkrishna Kushmariya " Baba Jee "', 'Bharatiya Janta Party', '15,52,876', '7,71,830', '49.70%', '1,11,781', '14.50%']
+294,MOHD. MUQUEEM,Domariaganj,BSP,2,10th Pass,"Rs 49,02,000",Rs 0
+['294', 'Kolaba', '3', 'GEN', 'Maharashtra', 'Barrister A. R. Antulay', 'Indian National Congress', '12,50,272', '7,91,940', '63.30%', '31,870', '4.00%']
+322,P. C. THOMAS (PULLOLIL),Muvattupuzha,IFDP,0,Graduate Professional,"Rs 63,92,358","Rs 12,32,410"
+['322', 'Madurai', '24', 'GEN', 'Tamil Nadu', 'Mohan, P.', 'Communist Party Of India (MARXIST)', '13,44,023', '7,38,136', '54.90%', '1,32,840', '18.00%']
+323,P. JAYA PRADA NAHATA,Rampur,SP,0,12th Pass,"Rs 8,42,75,000","Rs 3,00,000"
+['323', 'Mahabubnagar', '29', 'GEN', 'Andhra Pradesh', 'Devarakonda Vittal Rao', 'Indian National Congress', '13,65,922', '8,66,243', '63.40%', '47,907', '5.50%']
+324,P. KARUNAKARAN,Kasaragod,CPM,20,Post Graduate,"Rs 51,90,249","Rs 10,330"
+['324', 'Maharajganj', '35', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Pankaj Choudhary', 'Bharatiya Janta Party', '13,11,205', '7,46,614', '56.90%', '64,799', '8.70%']
+361,PURANO AGITOK SANGMA,Tura,AITC,0,Post Graduate,"Rs 3,50,32,125",Rs 0
+['361', 'Mumbai North East', '7', 'SC', 'Maharashtra', 'Ad. Kamat Gurudas Vasant', 'Indian National Congress', '19,74,560', '9,25,623', '46.90%', '99,400', '10.70%']
+362,PUSP JAIN,Pali,BJP,0,Graduate Professional,"Rs 16,54,429","Rs 2,22,611"
+['362', 'Mumbai North West', '8', 'GEN', 'Maharashtra', 'Dutt Priya Sunil', 'Indian National Congress', '15,15,745', '7,47,677', '49.30%', '47,358', '6.30%']
+363,R.L. JALAPPA,Chikballapur,INC,0,Graduate,"Rs 4,02,39,308","Rs 1,05,000"
+['363', 'Mumbai South', '4', 'GEN', 'Maharashtra', 'Milind Murli Deora', 'Indian National Congress', '6,20,431', '2,74,343', '44.20%', '10,246', '3.70%']
+365,RADHEY SHYAM KORI,Ghatampur,SP,0,10th Pass,"Rs 18,68,196",Rs 0
+['365', 'Murshidabad', '9', 'GEN', 'West Bengal', 'Abdul Mannan Hossain', 'Indian National Congress', '11,97,170', '10,03,469', '83.80%', '15,480', '1.50%']
+376,RAJESH KUMAR MANJHI,Gaya,RJD,0,8th Pass,Nil,"Rs 26,000"
+['376', 'Nagpur', '23', 'GEN', 'Maharashtra', 'Vilasrao Baburaoji Muttemwar', 'Indian National Congress', '16,30,894', '7,92,180', '48.60%', '99,483', '12.60%']
+380,RAKESH SINGH,Jabalpur,BJP,0,Graduate,"Rs 63,27,291",Rs 0
+['380', 'Nanded', '30', 'GEN', 'Maharashtra', 'D. B. Patil', 'Bharatiya Janta Party', '14,45,611', '7,98,771', '55.30%', '24,335', '3.00%']
+381,Ram Chandra Dome,Birbhum,CPM,0,Doctorate,"Rs 4,09,541","Rs 2,862"
+['381', 'Nandurbar', '15', 'GEN', 'Maharashtra', 'Gavit Manikrao Hodlya', 'Indian National Congress', '12,18,524', '6,39,614', '52.50%', '1,07,621', '16.80%']
+383,RAM JI LAL SUMAN,Firozabad,SP,2,Graduate,"Rs 42,35,985",Rs 0
+['383', 'Narasapur', '10', 'GEN', 'Andhra Pradesh', 'Chegondi Venkata Harirama Jogaiah', 'Indian National Congress', '9,96,175', '7,65,772', '76.90%', '64,412', '8.40%']
+390,RAMESHWAR ORAON,Lohardaga,INC,0,Doctorate,"Rs 92,38,423","Rs 3,64,452"
+['390', 'Nizamabad', '34', 'GEN', 'Andhra Pradesh', 'Madhu Yakshi Goud', 'Indian National Congress', '11,28,312', '7,81,638', '69.30%', '1,37,871', '17.60%']
+400,RASHEED MASOOD,Saharanpur,SP,1,Post Graduate,"Rs 2,61,75,490","Rs 30,50,977"
+['400', 'Palani', '22', 'GEN', 'Tamil Nadu', 'Kharventhan, S. K.', 'Indian National Congress', '10,88,931', '6,93,929', '63.70%', '2,31,493', '33.40%']
+405,RAYAPATI SAMBASIVA RAO,Guntur,INC,0,Not Given,"Rs 4,81,98,297","Rs 98,89,900"
+['405', 'Panskura', '29', 'SC', 'West Bengal', 'Gurudas Das Gupta', 'Communist Party Of India', '10,61,186', '8,71,449', '82.10%', '2,79,478', '32.10%']
+420,SANDEEP DIKSHIT,East Delhi,INC,0,Post Graduate,"Rs 47,64,901","Rs 2,46,779"
+['420', 'Ponnani', '6', 'GEN', 'Kerala', 'E. Ahammed', 'Muslim League Kerala State Committee', '11,72,057', '7,29,438', '62.20%', '1,02,758', '14.10%']
+422,SANSUMA KHUNGGUR BWISWMUTHIARY,Kokrajhar,IND,0,Graduate,"Rs 16,94,686",Rs 0
+['422', 'Pratapgarh', '20', 'GEN', 'Uttar Pradesh [2000 Onwards]', 'Akshay Pratap Singh "gopal Ji"', 'Samajwadi Party', '13,32,216', '5,72,666', '43.00%', '69,272', '12.10%']
+426,SARTAJ SINGH,Hoshangabad,BJP,0,Graduate,"Rs 1,48,78,898","Rs 6,54,724"
+['426', 'Purnea', '24', 'GEN', 'Bihar [2000 Onwards]', 'Uday Singh Alias Pappu Singh', 'Bharatiya Janta Party', '11,79,491', '7,09,015', '60.10%', '12,883', '1.80%']
+436,SHIVRAJ SINGH,Vidisha,BJP,2,Post Graduate,"Rs 58,14,600","Rs 2,87,640"
+['436', 'Rajapur', '1', 'ST', 'Maharashtra', 'Suresh Prabhu', 'Shiv Sena', '8,35,714', '4,80,243', '57.50%', '80,899', '16.80%']
+470,SURYAKANTA PATIL,Hingoli,NCP,2,Graduate,"Rs 1,53,07,225","Rs 2,72,088"
+['470', 'Secunderabad', '31', 'GEN', 'Andhra Pradesh', 'Anjan Kumar Yadav M', 'Indian National Congress', '18,50,694', '9,73,226', '52.60%', '68,758', '7.10%']
+476,TAPIR GAO,Arunachal East,BJP,0,Post Graduate,"Rs 55,16,640","Rs 50,000"
+['476', 'Shajapur', '22', 'SC', 'Madhya Pradesh [2000 Onwards]', 'Thawarchand Gehlot', 'Bharatiya Janta Party', '13,28,841', '7,19,744', '54.20%', '1,68,187', '23.40%']
+496,"VELU, R.",Arakkonam,PMK,0,Post Graduate,"Rs 46,10,868","Rs 97,947"
+['496', 'Srikakulam', '1', 'GEN', 'Andhra Pradesh', 'Yerrannaidu Kinjarapu', 'Telugu Desam', '9,58,626', '7,23,013', '75.40%', '31,879', '4.40%']
+502,VIJAYENDRAPAL SINGH,Bhilwara,BJP,0,Graduate,"Rs 2,37,65,671","Rs 2,50,000"
+['502', 'Surendranagar', '2', 'GEN', 'Gujarat', 'Koli Patel Somabhai Gandabhai', 'Bharatiya Janta Party', '11,09,656', '4,55,520', '41.10%', '33,944', '7.50%']
+505,VIRCHANDRA PASWAN,Nawada,RJD,0,Post Graduate,"Rs 17,97,522","Rs 1,35,728"
+['505', 'Tarn Taran', '3', 'GEN', 'Punjab', 'Dr. Rattan Singh Ajnala', 'Shiromani Akali Dal', '11,73,431', '7,17,306', '61.10%', '56,394', '7.90%']
+513,Y.S. VIVEKANANDA REDDY,Cuddapah,INC,0,Graduate,"Rs 3,62,27,380",Rs 0
+['513', 'Tiruchendur', '38', 'GEN', 'Tamil Nadu', 'Radhika Selvi. V', 'Dravida Munetra Kazhagam', '10,31,560', '6,28,693', '61.00%', '1,81,681', '28.90%']
